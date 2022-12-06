@@ -42,4 +42,4 @@ Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo
 npm run lint
 npm run lint:styles
 ```
-[link](https://www.linkedin.com/in/alexsandrobarbosa-dev/)
+[Solar System](http://localhost:3000/)
