@@ -1,4 +1,4 @@
-# :sun_with_face: Projeto Solar System
+# :sun_with_face: Projeto Solar System 🪐
 ![Logo do R](https://www.worldatlas.com/upload/d8/6e/21/shutterstock-311871896-01.jpg)
  A aplicação tem o objetivo de visualizar os planetas do sistema solar
 e trazer informações sobre as missões espaciais!
@@ -42,6 +42,6 @@ Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo
 npm run lint
 npm run lint:styles
 ```
-[Acesse o Solar System](http://localhost:3000/)
+## 🪐[Acesse o Solar System](http://localhost:3000/) 🪐
 
 
