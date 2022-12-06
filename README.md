@@ -42,4 +42,6 @@ Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo
 npm run lint
 npm run lint:styles
 ```
-[Solar System](http://localhost:3000/)
+[Solar System](https://www.worldatlas.com/upload/d8/6e/21/shutterstock-311871896-01.jpg)
+
+
