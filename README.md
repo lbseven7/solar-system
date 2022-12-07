@@ -42,6 +42,6 @@ Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo
 npm run lint
 npm run lint:styles
 ```
-## 🪐[Acesse o Solar System](http://localhost:3000/) 🪐
+## 🪐[Acesse o Solar System](https://g3i5r4x7.rocketcdn.me/wp-content/uploads/2020/10/sistema-solar-origem-composicao-principais-astros-e-caracteristicas-1.jpg) 🪐
 
 
