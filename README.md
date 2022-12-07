@@ -1,4 +1,5 @@
 # :sun_with_face: Projeto Solar System 🪐
+
 ![Logo do R](https://www.worldatlas.com/upload/d8/6e/21/shutterstock-311871896-01.jpg)
  A aplicação tem o objetivo de visualizar os planetas do sistema solar
 e trazer informações sobre as missões espaciais!
@@ -14,6 +15,8 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
+
+## 🪐[Acesse o Solar System](https://g3i5r4x7.rocketcdn.me/wp-content/uploads/2020/10/sistema-solar-origem-composicao-principais-astros-e-caracteristicas-1.jpg) 🪐
 
 
 # Observações técnicas
